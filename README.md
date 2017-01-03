@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/anggadarkprince/learn-tdd/branch/master/graph/badge.svg)](https://codecov.io/gh/anggadarkprince/learn-tdd)
 [![Code Climate](https://codeclimate.com/github/anggadarkprince/learn-tdd/badges/gpa.svg)](https://codeclimate.com/github/anggadarkprince/learn-tdd)
 [![NSP Status](https://nodesecurity.io/orgs/sketch-project-studio/projects/90dfb5b9-d4d3-4864-9d65-138b3d017924/badge)](https://nodesecurity.io/orgs/sketch-project-studio/projects/90dfb5b9-d4d3-4864-9d65-138b3d017924)
+[![bitHound Overall Score](https://www.bithound.io/github/anggadarkprince/learn-tdd/badges/score.svg)](https://www.bithound.io/github/anggadarkprince/learn-tdd)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/anggadarkprince/learn-tdd/issues)
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/anggadarkprince)
 
