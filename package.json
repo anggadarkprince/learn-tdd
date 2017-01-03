@@ -1,0 +1,51 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "Learn basic of react JS",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "js",
+    "react",
+    "learn"
+  ],
+  "author": "Angga Ari Wijaya",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "blanket": "^1.2.3",
+    "browserify-shim": "^3.8.12",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-mocha": "^3.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.4",
+    "qunit-tap": "^1.5.1",
+    "qunitjs": "^2.1.0"
+  },
+  "browser": {
+    "underscore": "./bower_components/underscore/underscore.js",
+    "jquery": "./bower_components/jquery/dist/jquery.js"
+  },
+  "browserify-shim": {
+    "underscore": {
+      "exports": "_"
+    },
+    "jquery": "$"
+  },
+  "browserify": {
+    "transform": [
+      "browserify-shim"
+    ]
+  }
+}

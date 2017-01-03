@@ -1,0 +1,26 @@
+{
+  "name": "learn-react",
+  "description": "Learn basic of react JS",
+  "main": "src/index.html",
+  "authors": [
+    "Angga Ari Wijaya"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "js",
+    "react",
+    "learn"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "underscore": "^1.8.3"
+  }
+}
