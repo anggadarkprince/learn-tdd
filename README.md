@@ -1,5 +1,6 @@
 # Learn TDD
 [![Build Status](https://travis-ci.org/anggadarkprince/learn-tdd.svg?branch=master)](https://travis-ci.org/anggadarkprince/learn-tdd)
+[![codecov](https://codecov.io/gh/anggadarkprince/learn-tdd/branch/master/graph/badge.svg)](https://codecov.io/gh/anggadarkprince/learn-tdd)
 
 Test Driven Development and Behavior Driven Development in Javascript using MochaJS and Qunit for unit testing library and BlanketJS and InstanbulJS for code coverage.
 
